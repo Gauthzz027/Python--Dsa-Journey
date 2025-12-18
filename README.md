@@ -1,1 +1,1 @@
-# Python--Dsa-Journey
+Day 1 – Python Basics completed
