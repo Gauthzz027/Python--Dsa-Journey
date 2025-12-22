@@ -6,5 +6,8 @@ Day 3 – Loops + First LeetCode Problem
 
 Day 4 – Functions + 1 LeetCode
 
+Day 5 – Logic Building (Reverse, Palindrome, Second Largest) + LeetCode Easy
+
+
 
 
